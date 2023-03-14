@@ -1,15 +1,5 @@
-/*********************************************************************************
-*  WEB422 – Assignment 6
-*  I declare that this assignment is my own work in accordance with Seneca Academic Policy.  
-*  No part of this assignment has been copied manually or electronically from any other source
-*  (including web sites) or distributed to other students.
-* 
-*  Name: _____Chi Ming Lai____________ Student ID: _____158400200________ Date: __23 November, 2022_____
-*  Vercel App (Deployed) Link: my-app-tau-gules.vercel.app 
-*
-********************************************************************************/ 
 
-// App URL: https://ill-blue-caterpillar-wrap.cyclic.app
+// App URL: my-app-f051a0303.vercel.app
 
 
 
